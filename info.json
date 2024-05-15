@@ -1,17 +1,15 @@
 {
-  "name": "RitnMiner",
-  "version": "0.8.5",
-  "title": "RitnMiner",
+  "name": "RitnMiner-extension-1",
+  "version": "0.1.0",
+  "title": "RitnMiner - extension : subsurface",
   "author": "Ritn",
-  "description": "Add technologies Miner and others...",
+  "description": "Extension mod of RitnMiner",
   "factorio_version": "1.1",
   "dependencies":[
 		"base >= 1.1",
-    "RitnLib >= 0.7",
-    "? RitnLumberjack >= 0.7",
-    "? RitnGlass >= 0.7",
-    "? CommuLogo >= 1.0",
-    "? DiscoScience >= 1.0.0",
-    "! MorePlaceableTiles >= 0.0.1"
+    "RitnMiner >= 0.8",
+    "Subsurface >= 1.0",
+    "aai-vehicles-miner >= 0.6",
+    "? alien-biomes >= 0.6"
 	]
 }
